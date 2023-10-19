@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ahmedd-achour
 - 👀 I’m interested in cs and and programming
-- 🌱 I’m currently learning java and madtering python 
+- 🌱 I’m currently learning java and mastering python 
 - 💞️ I’m looking to collaborate on a real web project made with angular
 - 📫 How to reach me via mail or contact me on instagram :
 - insta: @achourahmedd
