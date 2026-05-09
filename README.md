@@ -1,13 +1,27 @@
-- 👋 Hi, I’m @ahmedd-achour
-- 👀 I’m interested in cs and and game-developement
-- 🌱 I’m currently learning java and mastering python supper passioned about oop
-- 💞️ I’m looking to collaborate on a web project 
-- 📫 How to reach me?
--  via mail or contact me on instagram :
-- insta: [@achourahmedd](https://www.instagram.com/achourahmedd/)
-- mail : achourahmed709@gmail.com 
+# Ahmed Achour 🚀
 
-<!---
-ahmedd-achour/ahmedd-achour is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Software Engineer, Mobile Developer, and PhD Student passionate about building scalable tech products and solving real-world logistics problems through innovation.
+
+Founder of **Shnell**, a smart truck-matching and logistics platform that connects users with nearby transport vehicles using geolocation, bidding systems, and intelligent matching.
+
+## Skills
+- Flutter & Dart
+- Mobile App Development
+- REST APIs
+- UI/UX Design
+- Geolocation Systems
+- Real-Time Applications
+- Startup Product Development
+- System Architecture
+
+## Focus Areas
+- Logistics Technology
+- Marketplace Platforms
+- Mobility Solutions
+- Scalable Mobile Systems
+
+## Main Project
+### Shnell 🚚
+A logistics and truck-booking platform designed to make moving and transport services faster, smarter, and more accessible.
+
+you can see all my project on https://achour.pages.dev
