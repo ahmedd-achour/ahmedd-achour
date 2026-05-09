@@ -1,6 +1,6 @@
-# Ahmed Achour 🚀
+# Ahmed Achour 
 
-Software Engineer, Mobile Developer, and PhD Student passionate about building scalable tech products and solving real-world logistics problems through innovation.
+Software Engineer, Mobile Developer, passionate about building scalable tech products and solving real-world logistics problems through innovation.
 
 Founder of **Shnell**, a smart truck-matching and logistics platform that connects users with nearby transport vehicles using geolocation, bidding systems, and intelligent matching.
 
