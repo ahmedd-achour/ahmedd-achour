@@ -95,6 +95,8 @@ Complete logistics platform, client & driver apps live on Google Play.
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedd-achour&show_icons=true&hide_border=true&title_color=1e3a5f&icon_color=2563eb)
+![GitHub streak](https://streak-stats.demolab.com?user=ahmedd-achour&hide_border=true&ring=2563eb&fire=2563eb&currStreakLabel=1e3a5f)
+
+![Contribution chart](https://ghchart.rshah.org/2563eb/ahmedd-achour)
 
 </div>
